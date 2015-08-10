@@ -1,0 +1,13 @@
+{
+  "name": "dapper-js",
+  "version": "0.1.6",
+  "description": "dapper-js",
+  "main": "dapper.js",
+  "author": {
+    "name": "Cole Chamberlain",
+    "email": "cole.chamberlain@gmail.com"
+  },
+  "dependencies": {
+    "edge": "^0.10.1"
+  }
+}
