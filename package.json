@@ -1,12 +1,27 @@
 {
   "name": "dapper-js",
   "version": "0.1.6",
-  "description": "dapper-js",
   "main": "dapper.js",
+  "description": "dapper-dot-net port to node (WIP)",
   "author": {
     "name": "Cole Chamberlain",
     "email": "cole.chamberlain@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cchamberlain@github.com/cchamberlain/dapper-js.git"
+  },
+  "keywords": [
+    "dapper",
+    "dot",
+    "net",
+    "sql"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cchamberlain/dapper-js/issues"
+  },
+  "homepage": "https://github.com/cchamberlain/dapper-js#readme",
   "dependencies": {
     "edge": "^0.10.1"
   }
