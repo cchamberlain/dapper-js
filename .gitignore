@@ -5,6 +5,8 @@ logs
 obj
 obj/
 
+.ntvs_analysis.dat
+
 # Runtime data
 pids
 *.pid
