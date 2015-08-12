@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>dapper.js</id>
+    <version>0.1.1</version>
+    <title>dapper-js</title>
+    <authors>Cole Chamberlain</authors>
+    <owners>Cole Chamberlain</owners>
+    <licenseUrl>https://github.com/cchamberlain/dapper-js/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cchamberlain/dapper-js</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Port of dapper-dot-net to node.js</description>
+    <releaseNotes>Initial release, not much here (WIP).</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>node dapper-dot-net dapper javascript sql</tags>
+    <dependencies>
+      <dependency id="dapper.net" version="0.1.0" />
+    </dependencies>
+  </metadata>
+</package>
